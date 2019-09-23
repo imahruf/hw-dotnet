@@ -1,0 +1,11 @@
+/Users/miqbal/Projects/bin/Debug/netcoreapp2.2/Projects.deps.json
+/Users/miqbal/Projects/bin/Debug/netcoreapp2.2/Projects.runtimeconfig.json
+/Users/miqbal/Projects/bin/Debug/netcoreapp2.2/Projects.runtimeconfig.dev.json
+/Users/miqbal/Projects/bin/Debug/netcoreapp2.2/Projects.dll
+/Users/miqbal/Projects/bin/Debug/netcoreapp2.2/Projects.pdb
+/Users/miqbal/Projects/obj/Debug/netcoreapp2.2/Projects.csprojAssemblyReference.cache
+/Users/miqbal/Projects/obj/Debug/netcoreapp2.2/Projects.csproj.CoreCompileInputs.cache
+/Users/miqbal/Projects/obj/Debug/netcoreapp2.2/Projects.AssemblyInfoInputs.cache
+/Users/miqbal/Projects/obj/Debug/netcoreapp2.2/Projects.AssemblyInfo.cs
+/Users/miqbal/Projects/obj/Debug/netcoreapp2.2/Projects.dll
+/Users/miqbal/Projects/obj/Debug/netcoreapp2.2/Projects.pdb
